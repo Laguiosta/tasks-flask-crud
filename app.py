@@ -18,7 +18,7 @@ def crate_task():
     task_id_control += 1
     tasks.append(new_task)
     print(tasks)
-    return jsonify({"menssagem": "Nova tarefa criada com sucesso"})
+    return jsonify({"message": "Nova tarefa criada com sucesso", "id": new_task.id})
 
 
 # Rota para listas todas as tarefas

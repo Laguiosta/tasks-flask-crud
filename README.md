@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Flask](https://img.shields.io/badge/Flask-API-black)
+![Tests](https://img.shields.io/badge/tests-pytest-green)
+
 # Tasks Flask CRUD API
 
 API REST simples para gerenciamento de tarefas desenvolvida com Flask.  
